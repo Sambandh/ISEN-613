@@ -1,1 +1,3 @@
-# ISEN-613
+# ISEN-613 
+# Engineering Data Analysis
+# Course Instructor: Dr. Na Zou
